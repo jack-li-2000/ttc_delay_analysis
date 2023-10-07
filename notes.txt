@@ -1,0 +1,12 @@
+dashboard 4 - 
+
+split data into different seasons in toronto: 
+
+* winter - mid nov to march 
+* spring - april to may
+* summer - June to mid sept
+* fall - oct to mid nov
+
+dashboard 5 - 
+
+top type of incidents by location / time?
